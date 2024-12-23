@@ -1,0 +1,17 @@
+[CB2500] review
+benefits and downside of different IS
+examples
+其他课程,concept了解就行
+information security threat & loss
+
+some examples:
+cluster analysis helped we narrow down the candidate set
+association detection used in the shopping mart to know the correlation of different items
+IVM company 转型 overcome digital
+
+
+social media: techonology that support content sharing in the Internet
+social capital: investment in social relationship with the expectation of getting pay-back in market revenue
+vanity matrix
+how should we manage taxit knowledge: creating atmosphere...
+什么是erp，为什么可以帮助information sharing
