@@ -1,0 +1,17 @@
+编译器会拥有一个预处理树，知晓所有变量的类型，是吗
+索引实际上是pointer的通用操作，ptr[m]就是*(ptr+m)
+
+page21 为什么不能这样：char s[] = "abc";	*s = "abc";
+堆有什么好处；比起在栈中直接创建variable;不能在栈中删除变量实现动态规划吗
+什么叫variable created by us
+page22 array create猜想是否为真？若为真，为什么delete array pointer要有单独语法
+delete []p之后为什么还能p=p2     delete只是从heap中释放内存，指针变量依然存在，值还为原来的地址
+实际上是把一个指针的地址赋给**指针，**作为指针类型的指针，为什么还要有前缀int 
+
+
+stack
+heap
+data segment
+text segment: struction function
+delete: free memory space from programme to OS
+
